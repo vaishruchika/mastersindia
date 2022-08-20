@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mastersindia/static/css/main.bf5f3004.css",
+    "main.js": "/mastersindia/static/js/main.939ab6ee.js",
+    "static/js/787.4e2316ed.chunk.js": "/mastersindia/static/js/787.4e2316ed.chunk.js",
+    "index.html": "/mastersindia/index.html",
+    "main.bf5f3004.css.map": "/mastersindia/static/css/main.bf5f3004.css.map",
+    "main.939ab6ee.js.map": "/mastersindia/static/js/main.939ab6ee.js.map",
+    "787.4e2316ed.chunk.js.map": "/mastersindia/static/js/787.4e2316ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf5f3004.css",
+    "static/js/main.939ab6ee.js"
+  ]
+}
